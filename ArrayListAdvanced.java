@@ -1,4 +1,4 @@
-//import java.util.ArrayList;
+//import java.util.ArrayList //how to work commit changes
 
 //public class ArrayListAdvanced {
                    //brute force  time complexicity -0(n^2)
